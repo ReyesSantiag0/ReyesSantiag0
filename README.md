@@ -5,6 +5,8 @@
 
 <h1 align="center">Hi 👋, I'm Santiago Reyes⚡.</h1>
 <h3 align="center">A Colombian Systems Engineer passionate about development.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reyessantiag0&label=Profile%20views&color=0e75b6&style=flat" alt="reyessantiag0" /> </p>
+
 
 - 🌱 I’m currently learning **Angular, Express.js, Node.js and deepening in Java.**
 
