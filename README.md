@@ -16,9 +16,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/santiag0reyes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiag0reyes" height="30" width="40" /></a>
-<a href="https://fb.com/100034622766271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100034622766271" height="30" width="40" /></a>
-<a href="https://instagram.com/santiago_reyes_11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santiago_reyes_11/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/santiag0reyes" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiag0reyes" height="30" width="40" /></a>
+<a href="https://fb.com/100034622766271" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100034622766271" height="30" width="40" /></a>
+<a href="https://instagram.com/santiago_reyes_11/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santiago_reyes_11/" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
