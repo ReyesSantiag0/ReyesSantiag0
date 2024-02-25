@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.gifer.com/6M8G.gif"
+  <img src="https://gifer.com/6M8G"
     alt="img developer">
 </div>
 
