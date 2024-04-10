@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://cdn.dribbble.com/users/664063/screenshots/15373936/media/d1fd50845890a3f3aaf0921bb267a28a.gif"
-    alt="Programming GIF">
+    alt="Programming GIF" width="50" height="50">
 </div>
+
 
 <h1 align="center">Hi 👋, I'm Santiago Reyes⚡.</h1>
 <h3 align="center">A Colombian Systems Engineer passionate about development.</h3>
