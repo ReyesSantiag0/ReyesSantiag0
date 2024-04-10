@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/git-1-226092.png"
-    alt="Git Programming Image">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+    alt="Programming GIF">
 </div>
 
 <h1 align="center">Hi 👋, I'm Santiago Reyes⚡.</h1>
