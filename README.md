@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://cdn.dribbble.com/users/664063/screenshots/15373936/media/d1fd50845890a3f3aaf0921bb267a28a.gif"
-    alt="Programming GIF" width="50" height="50">
+    alt="Programming GIF" width="300" height="200">
 </div>
 
 
