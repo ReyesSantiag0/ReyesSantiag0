@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ReyesSantiag0](https://github.com/ReyesSantiag0)
 
-- 📫 How to reach me **josecamilreyes9@gmail.com or https://www.linkedin.com/in/santiag0reyes**
+- 📫 How to reach me **santiagoreyes2611@gmail.com or https://www.linkedin.com/in/santiag0reyes**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
